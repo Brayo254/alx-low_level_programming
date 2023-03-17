@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - prints out all the possible different combinations of two digits
- * Return: ALways 0
+ * Return: Always 0
  */
 int main(void)
 {
