@@ -1,6 +1,4 @@
 #include "main.h"
-
-
 /**
  * print_sign - prints the signs
  * @n: checking of arguement
