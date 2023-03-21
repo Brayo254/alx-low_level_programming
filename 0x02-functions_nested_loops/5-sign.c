@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 *print_sign - signs are printed based on a condition.
 * @n: arguement has succeeded
