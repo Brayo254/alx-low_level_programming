@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_sign - prints the signs
- * @n: checking of arguement
- * Return: 1 and prints + if n is above 0
- */
+* print_sign - prints the signs
+* @n: checking of arguement
+* Return: 1 and prints + if n is above 0
+*/
 
 int print_sign(int n)
 {
